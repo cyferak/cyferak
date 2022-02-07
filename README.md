@@ -1,4 +1,4 @@
-<img align="center" alt="ProfileBanner" src="https://i.imgur.com/gBmunLn.png" />
+<img align="center" alt="ProfileBanner" src="https://i.imgur.com/ZeW7aYE.png" />
 
 ### I'm a Junior Front-End Developer - currently learning.
 
