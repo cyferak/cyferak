@@ -25,4 +25,12 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/python/python-original.svg" style="padding-left:10px;" />
 
 <br />
+
+### Contact:
+[<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="padding-left:10px;" />][discord]
+[<img align="left" alt="steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="padding-left:10px;" />][steam]
+
 <br />
+
+[steam]: https://steamcommunity.com/id/cyferak/
+[discord]: https://discord.com/users/355490557407133699/
