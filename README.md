@@ -15,11 +15,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" /> 
 <br />
 
-## Graphic design:
-<img align="left" alt="Photoshop" width="26px" scr="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/photoshop/plain/PhotoshopPlain.svg" style="padding-right: 10px;" />
-<img align="left" alt="Ilustrator" width="26px" scr="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/illustrator/plain/IllustratorPlain.svg" style="padding-right: 10px;" />
-<br />
-
 ### In The Future:
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-left:10px;" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/angularjs/angularjs-plain.svg" style="padding-left:10px;" />
@@ -31,8 +26,8 @@
 
 ### Contact & Socials:
 [<img align="left" alt="discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="padding-left:10px;" />][discord]
-[<img align="left" alt="steam" width="100px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="padding-left:10px;" />][steam]
 [<img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-left:10px;" />][steam]
+[<img align="left" alt="steam" width="100px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="padding-left:10px;" />][steam]
 
 <br />
 
