@@ -30,12 +30,13 @@
 <br />
 
 ### Contact & Socials:
-[<img align="left" alt="discord" width="107px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="padding-left:10px;" />][discord]
-[<img align="left" alt="steam" width="107px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="padding-left:10px;" />][steam]
-[<img align="left" alt="linkedin" width="107px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-left:10px;" />][steam]
+[<img align="left" alt="discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="padding-left:10px;" />][discord]
+[<img align="left" alt="steam" width="100px" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" style="padding-left:10px;" />][steam]
+[<img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-left:10px;" />][steam]
 
 <br />
 
 [steam]: https://steamcommunity.com/id/cyferak/
 [discord]: https://discord.com/users/355490557407133699/
 [linkedin]: https://www.linkedin.com/in/dominik-karczmarczyk-361315225/
+[github]: https://github.com/cyferak/cyferak
