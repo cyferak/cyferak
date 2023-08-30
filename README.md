@@ -5,7 +5,7 @@
 - 🐣 26 y/o
 - 🐤 Poland
 
-### I know:
+### Front-End technology:
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][github]
@@ -14,6 +14,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/sass/sass-original.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/npm/npm-original-wordmark.svg" style="padding-left:10px;" />][github]
+
+[<img align="left" alt="NPM" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.svg" style="padding-left:10px;" />][github]
 <br />
 
 ### Learning Now:
