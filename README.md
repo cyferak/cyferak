@@ -1,33 +1,45 @@
 <img align="center" alt="ProfileBanner" src="https://i.imgur.com/CDv5e43.png" />
 
-### I'm a Junior Front-End Developer.
+### Junior Front-End Developer.
 
 - 🐣 26 y/o
-- 🐤 Poland
+- 🐤 Polish & English
+- 🐥 IT enjoyer, Front-End Developer, UX/UI Designer
 
-### Front-End technology:
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/git/git-plain.svg" style="padding-right:10px;" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/sass/sass-original.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/npm/npm-original-wordmark.svg" style="padding-left:10px;" />][github]
+https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.svg
 
-[<img align="left" alt="NPM" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.svg" style="padding-left:10px;" />][github]
+### Front-End Technology:
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/HTML.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/CSS.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/JavaScript.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="TypeScript" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/TypeScript.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Sass" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Sass.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Tailwind" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/TailwindCSS-Light.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Bootstrap" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Bootstrap.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Wordpress" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Wordpress.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/VSCode-Light.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Git" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Git.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Github-Light.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="NodeJS" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/NodeJS-Light.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="React" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/React-Light.svg" style="padding-left:10px;" />][github]
 <br />
 
-### Learning Now:
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/typescript/typescript-original.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/gitlab/gitlab-original.svg" style="padding-left:10px;" />][github]
+### UX / UI Technology:
+[<img align="left" alt="Figma" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Figma-Light.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Photoshop.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Adobe Ilustrator" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Ilustrator.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Adobe Xd" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/XD.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Adobe Premiere" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Premiere.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Adobe AfterEffects" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.svg" style="padding-left:10px;" />][github]
 <br />
 
-### In The Future:
-[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/angularjs/angularjs-plain.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/php/php-plain.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/python/python-original.svg" style="padding-left:10px;" />][github]
+### Learning / Hobby / Side Projects:
+[<img align="left" alt="Python" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Python-Light.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="PHP" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/PHP-Light.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/MongoDB" style="padding-left:10px;" />][github]
+[<img align="left" alt="GitLab" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/GitLab-Light.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="DiscordBots" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/DiscordBots.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="C++" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/CPP.svg" style="padding-left:10px;" />][github]
 <br />
 
 ### Contact & Socials:
