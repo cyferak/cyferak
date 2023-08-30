@@ -27,7 +27,7 @@ https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.s
 ### UX / UI Technology:
 [<img align="left" alt="Figma" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Figma-Light.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Photoshop.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="Adobe Ilustrator" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Ilustrator.svg" style="padding-left:10px;" />][github]
+[<img align="left" alt="Adobe Ilustrator" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Illustrator.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Adobe Xd" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/XD.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Adobe Premiere" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Premiere.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Adobe AfterEffects" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.svg" style="padding-left:10px;" />][github]
@@ -36,7 +36,7 @@ https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.s
 ### Learning / Hobby / Side Projects:
 [<img align="left" alt="Python" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Python-Light.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="PHP" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/PHP-Light.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="MongoDB" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/MongoDB" style="padding-left:10px;" />][github]
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/MongoDB.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="GitLab" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/GitLab-Light.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="DiscordBots" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/DiscordBots.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="C++" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/CPP.svg" style="padding-left:10px;" />][github]
