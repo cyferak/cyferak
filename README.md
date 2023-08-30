@@ -29,10 +29,15 @@
 <br />
 
 ### Contact & Socials:
-[<img align="left" alt="linkedin" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-left:10px;" />][linkedin]
+[<img align="left" alt="linkedin" src="https://i.imgur.com/2B4xRWf.png" style="padding-left:10px;" />][linkedin]
+[<img align="left" alt="linkedin" src="https://i.imgur.com/P4uvwBK.png" style="padding-left:10px;" />][dribbble]
+[<img align="left" alt="linkedin" src="https://i.imgur.com/ws120SA.png" style="padding-left:10px;" />][behance]
+[<img align="left" alt="linkedin" src="https://i.imgur.com/Ers5znW.png" style="padding-left:10px;" />][site]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/dominik-karczmarczyk-361315225/
+[dribbble]: https://dribbble.com/Cyferak
+[behance]: https://www.behance.net/Cyferak
 [github]: https://github.com/cyferak/cyferak
 [site]: https://cyferak.pro/
