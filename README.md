@@ -6,8 +6,6 @@
 - 🐤 Polish & English
 - 🐥 IT enjoyer, Front-End Developer, UX/UI Designer
 
-https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.svg
-
 ### Front-End Technology:
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/HTML.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/CSS.svg" style="padding-right:10px;" />][github]
