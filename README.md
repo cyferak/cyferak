@@ -2,9 +2,9 @@
 
 ### Junior Front-End Developer.
 
-- 🐣 26 y/o
+- 🐣 27 y/o
 - 🐤 Polish & English
-- 🐥 IT enjoyer, Front-End Developer, UX/UI Designer
+- 🐥 Front-End Developer, UX/UI Designer
 
 ### Front-End Technology:
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/HTML.svg" style="padding-right:10px;" />][github]
