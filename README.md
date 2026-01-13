@@ -1,8 +1,8 @@
 [<img align="center" alt="ProfileBanner" src="https://i.imgur.com/hDckynK.png" />][github]
 
-### Junior Front-End Developer.
+### Front-End Developer.
 
-- 🐣 27 y/o
+- 🐣 28 y/o
 - 🐤 Polish & English
 - 🐥 Front-End Developer, UX/UI Designer
 
@@ -13,8 +13,6 @@
 [<img align="left" alt="TypeScript" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/TypeScript.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="Sass" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Sass.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Tailwind" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/TailwindCSS-Light.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="Bootstrap" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Bootstrap.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="Wordpress" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Wordpress.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/VSCode-Light.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="Git" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Git.svg" style="padding-right:10px;" />][github]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Github-Light.svg" style="padding-right:10px;" />][github]
@@ -26,9 +24,7 @@
 [<img align="left" alt="Figma" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Figma-Light.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Photoshop.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Adobe Ilustrator" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Illustrator.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="Adobe Xd" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/XD.svg" style="padding-left:10px;" />][github]
 [<img align="left" alt="Adobe Premiere" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/Premiere.svg" style="padding-left:10px;" />][github]
-[<img align="left" alt="Adobe AfterEffects" width="26px" src="https://github.com/cyferak/cyferak.github.io/blob/main/Github/ico/AfterEffects.svg" style="padding-left:10px;" />][github]
 <br />
 
 ### Learning / Hobby / Side Projects:
